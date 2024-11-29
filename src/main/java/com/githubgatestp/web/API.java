@@ -40,6 +40,6 @@ public class API {
     public ResponseEntity<String> getString() {
 
 
-        return ResponseEntity.ok("Hello From earth !!");
+        return ResponseEntity.ok("Hello From earth!!");
     }
 }
